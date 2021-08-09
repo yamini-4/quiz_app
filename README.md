@@ -1,6 +1,6 @@
 # my_fapp
 
-A new Flutter project.
+A new Flutter project to perform quiz.
 
 ## Getting Started
 
