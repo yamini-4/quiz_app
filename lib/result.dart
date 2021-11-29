@@ -12,7 +12,7 @@ class Result extends StatelessWidget {
     if (resultScore >= 80) {
       return quizQuote = "Awwwessome!!";
     } else if (resultScore >= 45) {
-      return quizQuote = "Paravala!";
+      return quizQuote = "Not bad!";
     } else {
       return quizQuote = " get lost !";
     }
